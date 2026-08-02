@@ -4,12 +4,18 @@
 
 Official implementation of TTFN and the RWTamper dataset from the paper "Bridging the Reality Gap in Tampered Text Detection: A Human-Crafted Real-World Dataset and a Text-Centric Approach" (IEEE TIFS 2026).
 
+## ⚒️ Code Release
+The official implementation of TTFN is currently being prepared.  
+We plan to release the source code, training scripts, and evaluation pipeline in this repository in a future update.
+
+Please stay tuned.
+
 ## 📥 Download
 
 The RWTamper dataset is publicly available at [ModelScope](https://www.modelscope.cn/datasets/x5scut/RWTamper). 
 
 **Note:**
-- The TextDDLE dataset is available for non-commercial research purposes only. Scholars or organizations interested in using the dataset may submit an application through our online platform:
+- The RWTamper dataset is available for non-commercial research purposes only. Scholars or organizations interested in using the dataset may submit an application through our online platform:
 
 > 🔗 **[SCUT DLVC Lab Dataset Access Portal → Apply for RWTamper](http://121.41.49.212:9000/apply/rwtamper)**
 
@@ -19,6 +25,10 @@ The RWTamper dataset is publicly available at [ModelScope](https://www.modelscop
 
 ## 📜 License
 The code and dataset should be used and distributed under [ (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/) for non-commercial research purposes.
+
+## 📫 Contact
+
+If you have any questions, feel free to contact me at eegtxu@mail.scut.edu.cn.
 
 ## ⛔️ Copyright
 - This repository can only be used for non-commercial research purposes.
