@@ -2,7 +2,11 @@
 
 ---
 
-Official implementation of TTFN and the RWTamper dataset from the paper "Bridging the Reality Gap in Tampered Text Detection: A Human-Crafted Real-World Dataset and a Text-Centric Approach" (IEEE TIFS 2026).
+Official implementation of TTFN and the RWTamper dataset from the paper **"[Bridging the Reality Gap in Tampered Text Detection: A Human-Crafted Real-World Dataset and a Text-Centric Approach](https://ieeexplore.ieee.org/abstract/document/11570917)"** (IEEE TIFS 2026).
+
+Official implementation of TTFN and the RWTamper dataset from the paper  
+**"[Bridging the Reality Gap in Tampered Text Detection: A Human-Crafted Real-World Dataset and a Text-Centric Approach](论文链接放这里)"**  
+published in *IEEE Transactions on Information Forensics and Security (TIFS), 2026*.
 
 ## ⚒️ Code Release
 The official implementation of TTFN is currently being prepared.  
